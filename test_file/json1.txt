@@ -1,0 +1,79 @@
+{
+	"header1": {
+		"Accept": "application/json, text/javascript, */*; q=0.01",
+		"Accept-Language": "zh-CN,zh;q=0.9",
+		"Accept-Encoding": "gzip,deflate",
+		"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36",
+		"X-Requested-With":"XMLHttpRequest",
+		"Content-Length": "39",
+		"Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+		"Referer": "http://192.168.9.225:19001/login.html",
+		"Origin": "http://192.168.9.225:19001",
+		"Connection":"keep-alive",
+		"Host":"192.168.9.225:19001",
+		
+		
+	},
+
+	"header3": {
+		"Accept": "text/html,application/xhtml+xml,image/jxr, */*",
+		"Referer": "https://www.xmrc.com.cn/net/talent/Main.aspx",
+		"Accept-Language": "zh-CN",
+		"User-Agent": "Mozilla/5.0(WindowsNT10.0;WOW64;Trident/7.0;rv:11.0)like Gecko",
+		"Accept-EncAoding": "gzip,deflate",
+		"Host": "www.xmrc.com.cn",
+		"Connection": "Keep-Alive",
+		"Cookie": "__utmz=5198522.1560938645.4.2.utmcsr=baidu|utmccn=(organic)|utmcmd=organic; __utma=5198522.775541798.1558350468.1560944340.1561110856.6; _trail=tid=95064794&tidn=F347B7641CE88004&sip=134; UM_distinctid=16ad4ed10d539a-0fc2db6db112c8-293e1d4e-100200-16ad4ed10d61ab0; _temp=tag=e758a1600136442c856d582fd4eb327f&tid=DC9A659794F7FC88554F11E42D0CB0ED239F1F452458A23AD9CC874D9BE8908ADC0794178F8FD1BB0531E8C2D5961D257998DEB5E08B60370A663BF01E1B245897F129DE329C31BFCAFA970B300C151E7D9F096A23B597D4105A0D585BF18EF5; __utmb=5198522.3.10.1561110856; __utmc=5198522; __utmt=1; _tid=9938451E3934C0CB787F4465D689CA20; CNZZDATA3869267=cnzz_eid%3D146949812-1558349030-%26ntime%3D1561105568; www.xmrc.com.cn=94955953; ASP.NET_SessionId=z0jls13c45dtczgsfoaerc0p"
+	},
+
+	"request_data1": {
+		"username": "yinjing",
+		"password": "yinjing"
+	},
+
+	"request_data2": {
+		"askBuyNo": "AB-2021-06-23-0005",
+		"company": "3",
+		"companyName": null,
+		"askDepartment": "58",
+		"askDepartmentName": "研发二部",
+		"askPerson": "PC05020200320112826",
+		"askPersonName": "尹静",
+		"remark": "",
+		"askStatus": 0,
+		"auditMark": "客户直发自动审核！",
+		"printCount": 0,
+		"makeUser": "yinjing",
+		"makeUserName": "尹静",
+		"makeDatetime": null,
+		"updateUser": null,
+		"updateUserName": null,
+		"updateDatetime": null,
+		"reviewUser": "pengfu",
+		"reviewUserName": "唐仕斌",
+		"beforeReviewUser": null,
+		"reviewDatetime": null,
+		"owner": "yinjing,pengfu,yinjing,tangshibin",
+		"ownerPersonName": "尹静,彭府,唐仕斌",
+		"deleteStatus": 0,
+		"billStatus": 1,
+		"billDate": "2021-06-17",
+		"id": null,
+		"accountBook": "2021",
+		"askBuyDetails":"[{\"askBuyNo\":\"AB-2021-06-23-0005\",\"askCount\":650,\"askType\":2,\"brand\":\"0\",\"buyerQuantity\":0,\"deliveryAddress\":\" \",\"demandTime\":\"2021-06-23\",\"executeQuantity\":0,\"id\":10688,\"prevDay\":27,\"prevEnableCount\":52514,\"prevMoq\":99,\"prevMpq\":6,\"prevStockCount\":51914,\"price\":0.0023,\"remark\":\"12323444\",\"stockAttr\":\"2\",\"stockCode\":\"1001010005-71N\",\"stockCode1\":\"1001010005\",\"stockCount\":700,\"stockEnableCount\":1000,\"stockId\":33245,\"stockModel\":\"SMD,105R,0201,±1%,1/20W-2\",\"stockMoq\":99,\"stockMpq\":6,\"stockName\":\"贴片电阻\",\"totalPrice\":1.495,\"turnoverDay\":334,\"unPurchaseQuantity\":0,\"unitName\":\"PCS\"}]",
+		"projectCode": null,
+		"projectName": null,
+		"totalPrice": 65010.125
+	},
+
+	"request_data4": {
+		"ID": "7499187"
+	},
+
+	"request_data5": {
+		"username": "13799778291",
+		"verify": "",
+		"password": "903122lan",
+		"referer": "https://www.imooc.com"
+	}
+}

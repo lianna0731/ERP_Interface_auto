@@ -1,0 +1,51 @@
+{"header1":{
+           "Accept": "text/javascript,application/javascript,application/ecmascript,application/x-ecmascript, */*; q=0.01",
+            "X-Requested-With": "XMLHttpRequest",
+            "Referer": "https://www.imooc.com/",
+            "Accept-Language": "zh-CN",
+            "Accept-Encoding": "gzip, deflate",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
+            "Host": "www.imooc.com",
+            "Connection": "Keep-Alive",
+            "Cookie": "cvde=5cf8b95150b18-20;Hm_lpvt_f0cfcccd7b1393990c78efdeebff3968=1559807504;cninfo=L5-b098f828d4a7229958cf4ad9c4a7cac5;mc_marking=b098f828d4a7229958cf4ad9c4a7cac5; zg_f375fe2f71e542a4b890d9a620f9fb32=%7B%22sid%22%3A%201559804239882%2C%22updated%22%3A%201559807508443%2C%22info%22%3A%201559284095396%2C%22superProperty%22%3A%20%22%7B%5C%22%E5%BA%94%E7%94%A8%E5%90%8D%E7%A7%B0%5C%22%3A%20%5C%22%E6%85%95%E8%AF%BE%E7%BD%91%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1%5C%22%2C%5C%22Platform%5C%22%3A%20%5C%22web%5C%22%7D%22%2C%22platform%22%3A%20%22%7B%7D%22%2C%22utm%22%3A%20%22%7B%7D%22%2C%22referrerDomain%22%3A%20%22%22%2C%22cuid%22%3A%20%22dkW9KG7bGP4%2C%22%2C%22zs%22%3A%200%2C%22sc%22%3A%200%7D;imooc_isnew_ct=1559284096;imooc_isnew=2; IMCDNS=0; Hm_lvt_f0cfcccd7b1393990c78efdeebff3968=1559284097,1559804240; mc_channel=L5; zg_did=%7B%22did%22%3A%20%2216b0c9319998b3-0f1a925dd938868-293e1d4e-100200-16b0c93199a125a%22%7D;imooc_uuid=87ff47b1-2aed-43d6-90e6-38db72cc6f24;loginstate=1;apsid=RlMmFjYmVmMmJiNjJkME1MTdjZTRjMTJhOGE2ZjgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANzg3ODE0MgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGI3YzdiODhkYjcyNTBmZDM4ZGI2YjdjNzY2NmRmOGU3D8b4XDmc71w%3DYT"
+        },
+"header2":{
+	"Accept":"text/html,application/xhtml+xml,image/jxr, */*",
+	"Referer":"https://www.xmrc.com.cn/net/talent/Main.aspx",
+	"Accept-Language":"zh-CN",
+	"User-Agent":"Mozilla/5.0(WindowsNT10.0;WOW64;Trident/7.0;rv:11.0)like Gecko",	
+	"Accept-EncAoding":"gzip,deflate",	
+	"Host":"www.xmrc.com.cn",
+	"Connection":"Keep-Alive",	
+	"Cookie":"__utmz=5198522.1560938645.4.2.utmcsr=baidu|utmccn=(organic)|utmcmd=organic; __utma=5198522.775541798.1558350468.1560944340.1561110856.6; _trail=tid=95064794&tidn=F347B7641CE88004&sip=134; UM_distinctid=16ad4ed10d539a-0fc2db6db112c8-293e1d4e-100200-16ad4ed10d61ab0; _temp=tag=e758a1600136442c856d582fd4eb327f&tid=DC9A659794F7FC88554F11E42D0CB0ED239F1F452458A23AD9CC874D9BE8908ADC0794178F8FD1BB0531E8C2D5961D257998DEB5E08B60370A663BF01E1B245897F129DE329C31BFCAFA970B300C151E7D9F096A23B597D4105A0D585BF18EF5; __utmb=5198522.3.10.1561110856; __utmc=5198522; __utmt=1; _tid=9938451E3934C0CB787F4465D689CA20; CNZZDATA3869267=cnzz_eid%3D146949812-1558349030-%26ntime%3D1561105568; www.xmrc.com.cn=94955953; ASP.NET_SessionId=z0jls13c45dtczgsfoaerc0p"
+           },
+
+"request_data1":{"username":"admin",
+  		 "password":"6"},
+
+"request_data2":{"jsonpcallback": "jQuery19109693617761826627_1559805393372",
+ 		 "_": "1559805393373"
+                },
+
+"request_data4":{"ID":"7499187"
+                },
+
+"request_data5":{"username":"13799778291",
+		"verify":"",
+		"password":"903122lan",
+		"referer":"https://www.imooc.com"
+		},
+
+"request_data6":{"searchColums":"",
+		"undefined":"",
+		"goodsname":"Java½Ì³Ì",
+		"goodstype":"",
+		"page":1,
+		"rows":10
+		},
+"request_data7":{"userKey":"D1B5CC2FE46C4CC983C073BCA897935608D926CD32992B5900",
+		"userName":"admin",
+		"password":"123456",
+		"randCode":"idhj"}
+}
+
