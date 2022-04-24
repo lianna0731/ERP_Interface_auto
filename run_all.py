@@ -8,10 +8,10 @@ get_project_path = os.path.realpath(__file__)
 #print(get_project_path)
 a = os.path.split(os.path.split(get_project_path)[0])[0] #获取顶级路径
 #   print(a) #E:\ERP_interface_Auto
-report_path = a+"\\report\\report.html"
+report_path = a+"/report/report.html"
 fp = open(report_path, 'wb')
 
-dirc = a+"\\case"
+dirc = a+"//case"
 pattern = "test*.py"
 discover = unittest.defaultTestLoader.discover(start_dir=dirc, pattern=pattern)
 
