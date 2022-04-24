@@ -3,10 +3,10 @@
 import unittest
 from test_file import HTMLTestRunner_cn
 from base.my_log import  MyLog
-report_path = "E:\\ERP_interface_Auto\\requsts_inference\\report\\report.html"
+report_path = "E:ERP\\ERP_Interface_Auto\\report\\report.html"
 fp = open(report_path, 'wb')
 
-dirc = "E:\\ERP_interface_Auto\\requsts_inference\\case"
+dirc = "E:ERP\\ERP_Interface_Auto\\case"
 pattern = "test*.py"
 discover = unittest.defaultTestLoader.discover(start_dir=dirc, pattern=pattern)
 
