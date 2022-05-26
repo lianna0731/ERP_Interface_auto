@@ -8,10 +8,10 @@ from base.read_config import ReadConfig
 from base import get_project_path
 
 
-# connection = pymssql.connect(host="139.9.123.65",
+# connection = pymssql.connect(host="192.168.15.49\SQLSERVER2012",
 #                                      port=1322,
-#                                      user='sa',
-#                                      password='xmsx123!@#',
+#                                      user='erp',
+#                                      password='erp123!@#',
 #                                      database="ERP_DEV_0707",
 #                                      charset='utf8'
 #                      )
